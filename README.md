@@ -7,7 +7,7 @@ This Python script serves as a handy tool for identifying alterations within you
 
 The process is straightforward:
 
-Download the .py file and store it in a folder of your choosing (I recommend your Houdini user preference folder).
+Download the main.py file and store it in a folder of your choosing (I recommend your Houdini user preference folder).
 
 Create a shelf button and paste the provided code under ShelfPython.py file under the script tab of your new shelf tool (ensure the script language is set to Python).
 
